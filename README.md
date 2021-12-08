@@ -9,3 +9,5 @@
 
 ## About PurpleEditor
 ![](image/image.png)
+
+PurpleEditor is a tool to read/write Syscfg of  devices
