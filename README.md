@@ -8,4 +8,4 @@
 
 
 ## About PurpleEditor
-![](image/purple.png)
+![](image/image.png)
