@@ -5,7 +5,7 @@
   </a>
 
   <h3 align="center">PurpleEditor</h3>
-  <h3 align="center">PurpleEditor</h3>
+  <h3 align="center">Syscfg editing utility</h3>
 
 
 ## About PurpleEditor
