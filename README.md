@@ -27,4 +27,5 @@ Please make sure you have checked [opened issues](https://github.com/Mini-Exploi
 * Disadvantage: Limited reading/writing syscfg
 - PurpleEditor only reads/writes neccessary syscfg information for iCloud Unlocking. If you wish to edit more syscfg information, please consider using [MagicCFG](https://github.com/j4nf4b3l/magicCFG) instead.
 ## Credits
+* [Jan Fabel](http://github.com/j4nf4b3l) for [MagicCFG](http://github.com/j4nf4b3l)
 * [Andrew Madsen](https://github.com/armadsen) for [ORSSerialPort](https://github.com/armadsen/ORSSerialPort)
