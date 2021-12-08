@@ -5,3 +5,7 @@
   </a>
 
   <h3 align="center">PurpleEditor</h3>
+
+
+## About PurpleEditor
+![](image/purple.png)
