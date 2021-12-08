@@ -18,7 +18,7 @@ Features:
 * Read/write device's Bluetooth Mac.
 * Permanent iCloud unlocking on older  devices.
 ## Download
-* PurpleEditor can be downloaded from [here]()
+* PurpleEditor can be downloaded from [here](https://github.com/Mini-Exploit/PurpleEditor/releases/)
 ## Bug Report
 Report bug by opening an issue [here](https://github.com/Mini-Exploit/PurpleEditor/issues)
 Please make sure you have checked [opened issues](https://github.com/Mini-Exploit/PurpleEditor/issues) before opening your own issue as those opend issues may have already included your problems
