@@ -34,8 +34,7 @@ NOTE: A restore is neccessary for those changes to take effect.
 * Disadvantage: Limited reading/writing syscfg
 - PurpleEditor only reads/writes neccessary syscfg information for iCloud Unlocking. If you wish to edit more syscfg information, please consider using [MagicCFG](https://github.com/j4nf4b3l/magicCFG) instead.
 ## Bug Report
-Report bug by opening an issue [here](https://github.com/Mini-Exploit/PurpleEditor/issues)
-.Please make sure you have checked [opened issues](https://github.com/Mini-Exploit/PurpleEditor/issues) before opening your own issue as those opend issues may have already included your problems
+Report bug by opening an issue [here](https://github.com/Mini-Exploit/PurpleEditor/issues). Please make sure you have checked [opened issues](https://github.com/Mini-Exploit/PurpleEditor/issues) before opening your own issue as those opend issues may have already included your problems
 ## Donation
 Currently this software does not ask for donations. If you enjoy this software, please give this repository a star, that's the biggest donation you can give me :)
 ## Credits
