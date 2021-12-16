@@ -25,8 +25,9 @@ Features:
 3. In PurpleEditor, click Refresh.
 4. Now click on the popup button, choose your port there (usually it's usbmodem-xxx or usbmodemxxx).
 5. Click Connect.
-6. Click Read Syscfg. Now, Syscfg including serial number, Wifi Mac, Bluetooth Mac will appear in the text field. If you want to edit them, just click on the text field andcahnge those information, then click Apply.
+6. Click Read Syscfg. Now, Syscfg including serial number, Wifi Mac, Bluetooth Mac will appear in the text field. If you want to edit them, just click on the text field and change those information, then click Apply.
 7. After you have done with those stuffs, click Reboot. Your device will reboot now.
+
 NOTE: A restore is neccessary for those changes to take effect.
 ## Advantages/Disadvantages
 * Advantage: PurpleEditor's size is only ~1.4MB, so don't worry it will take much space on your computer :)
